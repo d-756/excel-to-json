@@ -1,0 +1,12 @@
+{
+	"name": "excelToJSON",
+	"version": "1.0.0",
+	"main": "app.js",
+	"dependencies": {
+		"axios": "^0.19.0",
+		"dateformat": "^3.0.3",
+		"fs": "0.0.1-security",
+		"path": "^0.12.7",
+		"xlsx": "^0.15.0"
+	}
+}
